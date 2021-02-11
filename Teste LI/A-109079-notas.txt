@@ -1,0 +1,12 @@
+NOME: Luis Miguel Almeida Tavares
+NMEC: 109079
+
+Tarefa 1:
+C:\Users\luism>cd ..
+C:\Users>cd ..
+C:\>dir
+C:\>cd Luis
+C:\Luis>dir
+C:\Luis>cd Teste LI
+C:\Luis\Teste LI>dir
+C:\Luis\Teste LI>CertUtil -hashfile A-109079-notas.txt MD5
